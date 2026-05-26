@@ -36,9 +36,10 @@ body {
 
 .emoji a {
   text-decoration: none;
-  background-color: #781baa;
+  background-color: #781BAA;
   color: white;
   padding: 1rem;
   border-radius: 8px;
   display: block;
+  margin-top: auto;
 }
